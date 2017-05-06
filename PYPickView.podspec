@@ -9,5 +9,5 @@ s.source = { :git => 'https://github.com/ios582754/PYPickView.git', :tag => s.ve
 s.requires_arc = true
 s.ios.deployment_target = '8.0'
 s.source_files = 'PYPickView/*.{h,m}'
-s.resources = 'PYPickView/*.{plist}'
+s.resources = 'PYPickView/*.plist'
 end
