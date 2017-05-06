@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "PYPickView", "PYPickView/**/*.{h,m}"
+  s.source_files  =  "PYPickView/PYPickViewR/**/*.{h,m}"
 
 
 
@@ -102,7 +102,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  # s.resources = "PYUSerelectPickVC/*.plist"
+  # s.resources = "/*.plist"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
   #run: `echo "3.0" > .swift-version
