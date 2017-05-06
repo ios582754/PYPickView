@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name = 'PYPickViewR'
+s.name = 'PYPickView'
 s.version = '0.01'
 s.license = 'MIT'
 s.summary = 'An Animate Water view on iOS.'
