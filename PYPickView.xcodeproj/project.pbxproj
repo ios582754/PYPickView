@@ -13,12 +13,12 @@
 		183A32331EBD66B100173F11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183A32311EBD66B100173F11 /* LaunchScreen.storyboard */; };
 		183A323C1EBD66E700173F11 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A323B1EBD66E700173F11 /* ViewController.m */; };
 		183A323E1EBD66F500173F11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183A323D1EBD66F500173F11 /* Main.storyboard */; };
-		183A324C1EBD672D00173F11 /* address.plist in Resources */ = {isa = PBXBuildFile; fileRef = 183A32401EBD672D00173F11 /* address.plist */; };
-		183A324D1EBD672D00173F11 /* PyAddressPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32421EBD672D00173F11 /* PyAddressPickView.m */; };
-		183A324E1EBD672D00173F11 /* PyBirthdayPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32441EBD672D00173F11 /* PyBirthdayPickerView.m */; };
-		183A324F1EBD672D00173F11 /* PyGenderPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32461EBD672D00173F11 /* PyGenderPickerView.m */; };
-		183A32501EBD672D00173F11 /* PySwithTimePickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32491EBD672D00173F11 /* PySwithTimePickView.m */; };
-		183A32511EBD672D00173F11 /* UIView+PyExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A324B1EBD672D00173F11 /* UIView+PyExtension.m */; };
+		183A325F1EBDB9ED00173F11 /* address.plist in Resources */ = {isa = PBXBuildFile; fileRef = 183A32531EBDB9ED00173F11 /* address.plist */; };
+		183A32601EBDB9ED00173F11 /* PyAddressPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32551EBDB9ED00173F11 /* PyAddressPickView.m */; };
+		183A32611EBDB9ED00173F11 /* PyBirthdayPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32571EBDB9ED00173F11 /* PyBirthdayPickerView.m */; };
+		183A32621EBDB9ED00173F11 /* PyGenderPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A32591EBDB9ED00173F11 /* PyGenderPickerView.m */; };
+		183A32631EBDB9ED00173F11 /* PySwithTimePickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A325C1EBDB9ED00173F11 /* PySwithTimePickView.m */; };
+		183A32641EBDB9ED00173F11 /* UIView+PyExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 183A325E1EBDB9ED00173F11 /* UIView+PyExtension.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,18 +32,18 @@
 		183A323A1EBD66E200173F11 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		183A323B1EBD66E700173F11 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		183A323D1EBD66F500173F11 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		183A32401EBD672D00173F11 /* address.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = address.plist; sourceTree = "<group>"; };
-		183A32411EBD672D00173F11 /* PyAddressPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyAddressPickView.h; sourceTree = "<group>"; };
-		183A32421EBD672D00173F11 /* PyAddressPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyAddressPickView.m; sourceTree = "<group>"; };
-		183A32431EBD672D00173F11 /* PyBirthdayPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyBirthdayPickerView.h; sourceTree = "<group>"; };
-		183A32441EBD672D00173F11 /* PyBirthdayPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyBirthdayPickerView.m; sourceTree = "<group>"; };
-		183A32451EBD672D00173F11 /* PyGenderPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyGenderPickerView.h; sourceTree = "<group>"; };
-		183A32461EBD672D00173F11 /* PyGenderPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyGenderPickerView.m; sourceTree = "<group>"; };
-		183A32471EBD672D00173F11 /* PYPickViewDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYPickViewDefines.h; sourceTree = "<group>"; };
-		183A32481EBD672D00173F11 /* PySwithTimePickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PySwithTimePickView.h; sourceTree = "<group>"; };
-		183A32491EBD672D00173F11 /* PySwithTimePickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PySwithTimePickView.m; sourceTree = "<group>"; };
-		183A324A1EBD672D00173F11 /* UIView+PyExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+PyExtension.h"; sourceTree = "<group>"; };
-		183A324B1EBD672D00173F11 /* UIView+PyExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+PyExtension.m"; sourceTree = "<group>"; };
+		183A32531EBDB9ED00173F11 /* address.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = address.plist; sourceTree = "<group>"; };
+		183A32541EBDB9ED00173F11 /* PyAddressPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyAddressPickView.h; sourceTree = "<group>"; };
+		183A32551EBDB9ED00173F11 /* PyAddressPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyAddressPickView.m; sourceTree = "<group>"; };
+		183A32561EBDB9ED00173F11 /* PyBirthdayPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyBirthdayPickerView.h; sourceTree = "<group>"; };
+		183A32571EBDB9ED00173F11 /* PyBirthdayPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyBirthdayPickerView.m; sourceTree = "<group>"; };
+		183A32581EBDB9ED00173F11 /* PyGenderPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyGenderPickerView.h; sourceTree = "<group>"; };
+		183A32591EBDB9ED00173F11 /* PyGenderPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyGenderPickerView.m; sourceTree = "<group>"; };
+		183A325A1EBDB9ED00173F11 /* PYPickViewDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYPickViewDefines.h; sourceTree = "<group>"; };
+		183A325B1EBDB9ED00173F11 /* PySwithTimePickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PySwithTimePickView.h; sourceTree = "<group>"; };
+		183A325C1EBDB9ED00173F11 /* PySwithTimePickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PySwithTimePickView.m; sourceTree = "<group>"; };
+		183A325D1EBDB9ED00173F11 /* UIView+PyExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+PyExtension.h"; sourceTree = "<group>"; };
+		183A325E1EBDB9ED00173F11 /* UIView+PyExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+PyExtension.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 		183A32171EBD66B100173F11 = {
 			isa = PBXGroup;
 			children = (
-				183A323F1EBD672D00173F11 /* PYPickViewR */,
+				183A32521EBDB9ED00173F11 /* PYPickView */,
 				183A32221EBD66B100173F11 /* PYPickView */,
 				183A32211EBD66B100173F11 /* Products */,
 			);
@@ -98,23 +98,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		183A323F1EBD672D00173F11 /* PYPickViewR */ = {
+		183A32521EBDB9ED00173F11 /* PYPickView */ = {
 			isa = PBXGroup;
 			children = (
-				183A32401EBD672D00173F11 /* address.plist */,
-				183A32411EBD672D00173F11 /* PyAddressPickView.h */,
-				183A32421EBD672D00173F11 /* PyAddressPickView.m */,
-				183A32431EBD672D00173F11 /* PyBirthdayPickerView.h */,
-				183A32441EBD672D00173F11 /* PyBirthdayPickerView.m */,
-				183A32451EBD672D00173F11 /* PyGenderPickerView.h */,
-				183A32461EBD672D00173F11 /* PyGenderPickerView.m */,
-				183A32471EBD672D00173F11 /* PYPickViewDefines.h */,
-				183A32481EBD672D00173F11 /* PySwithTimePickView.h */,
-				183A32491EBD672D00173F11 /* PySwithTimePickView.m */,
-				183A324A1EBD672D00173F11 /* UIView+PyExtension.h */,
-				183A324B1EBD672D00173F11 /* UIView+PyExtension.m */,
+				183A32531EBDB9ED00173F11 /* address.plist */,
+				183A32541EBDB9ED00173F11 /* PyAddressPickView.h */,
+				183A32551EBDB9ED00173F11 /* PyAddressPickView.m */,
+				183A32561EBDB9ED00173F11 /* PyBirthdayPickerView.h */,
+				183A32571EBDB9ED00173F11 /* PyBirthdayPickerView.m */,
+				183A32581EBDB9ED00173F11 /* PyGenderPickerView.h */,
+				183A32591EBDB9ED00173F11 /* PyGenderPickerView.m */,
+				183A325A1EBDB9ED00173F11 /* PYPickViewDefines.h */,
+				183A325B1EBDB9ED00173F11 /* PySwithTimePickView.h */,
+				183A325C1EBDB9ED00173F11 /* PySwithTimePickView.m */,
+				183A325D1EBDB9ED00173F11 /* UIView+PyExtension.h */,
+				183A325E1EBDB9ED00173F11 /* UIView+PyExtension.m */,
 			);
-			path = PYPickViewR;
+			path = PYPickView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,7 +177,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				183A323E1EBD66F500173F11 /* Main.storyboard in Resources */,
-				183A324C1EBD672D00173F11 /* address.plist in Resources */,
+				183A325F1EBDB9ED00173F11 /* address.plist in Resources */,
 				183A32331EBD66B100173F11 /* LaunchScreen.storyboard in Resources */,
 				183A32301EBD66B100173F11 /* Assets.xcassets in Resources */,
 			);
@@ -191,13 +191,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				183A323C1EBD66E700173F11 /* ViewController.m in Sources */,
-				183A32511EBD672D00173F11 /* UIView+PyExtension.m in Sources */,
+				183A32641EBDB9ED00173F11 /* UIView+PyExtension.m in Sources */,
 				183A32281EBD66B100173F11 /* AppDelegate.m in Sources */,
-				183A324E1EBD672D00173F11 /* PyBirthdayPickerView.m in Sources */,
-				183A32501EBD672D00173F11 /* PySwithTimePickView.m in Sources */,
+				183A32611EBDB9ED00173F11 /* PyBirthdayPickerView.m in Sources */,
+				183A32631EBDB9ED00173F11 /* PySwithTimePickView.m in Sources */,
 				183A32251EBD66B100173F11 /* main.m in Sources */,
-				183A324F1EBD672D00173F11 /* PyGenderPickerView.m in Sources */,
-				183A324D1EBD672D00173F11 /* PyAddressPickView.m in Sources */,
+				183A32621EBDB9ED00173F11 /* PyGenderPickerView.m in Sources */,
+				183A32601EBDB9ED00173F11 /* PyAddressPickView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -348,6 +348,7 @@
 				183A32391EBD66B100173F11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
