@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "183A31C41EBD379600173F11"
-               BuildableName = "PYUSerelectPickVC.app"
-               BlueprintName = "PYUSerelectPickVC"
-               ReferencedContainer = "container:PYUSerelectPickVC.xcodeproj">
+               BlueprintIdentifier = "183A321F1EBD66B100173F11"
+               BuildableName = "PYPickView.app"
+               BlueprintName = "PYPickView"
+               ReferencedContainer = "container:PYPickView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "183A31C41EBD379600173F11"
-            BuildableName = "PYUSerelectPickVC.app"
-            BlueprintName = "PYUSerelectPickVC"
-            ReferencedContainer = "container:PYUSerelectPickVC.xcodeproj">
+            BlueprintIdentifier = "183A321F1EBD66B100173F11"
+            BuildableName = "PYPickView.app"
+            BlueprintName = "PYPickView"
+            ReferencedContainer = "container:PYPickView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "183A31C41EBD379600173F11"
-            BuildableName = "PYUSerelectPickVC.app"
-            BlueprintName = "PYUSerelectPickVC"
-            ReferencedContainer = "container:PYUSerelectPickVC.xcodeproj">
+            BlueprintIdentifier = "183A321F1EBD66B100173F11"
+            BuildableName = "PYPickView.app"
+            BlueprintName = "PYPickView"
+            ReferencedContainer = "container:PYPickView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "183A31C41EBD379600173F11"
-            BuildableName = "PYUSerelectPickVC.app"
-            BlueprintName = "PYUSerelectPickVC"
-            ReferencedContainer = "container:PYUSerelectPickVC.xcodeproj">
+            BlueprintIdentifier = "183A321F1EBD66B100173F11"
+            BuildableName = "PYPickView.app"
+            BlueprintName = "PYPickView"
+            ReferencedContainer = "container:PYPickView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

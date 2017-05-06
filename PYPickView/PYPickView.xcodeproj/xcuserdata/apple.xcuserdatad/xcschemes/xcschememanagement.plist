@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PYUSerelectPickVC.xcscheme</key>
+		<key>PYPickView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>183A31C41EBD379600173F11</key>
+		<key>183A321F1EBD66B100173F11</key>
 		<dict>
 			<key>primary</key>
 			<true/>

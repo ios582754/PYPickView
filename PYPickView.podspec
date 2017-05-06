@@ -89,10 +89,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "PYUSerelectPickVC/PYPickView", "PYUSerelectPickVC/PYPickView/**/*.{h,m}"
-  s.exclude_files = "PYUSerelectPickVC/PYPickView"
+  s.source_files  = "PYPickView/PYUSerelectPickVC/PYPickView", "PYPickView/**/*.{h,m}"
 
-  # s.public_header_files = "Classes/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
