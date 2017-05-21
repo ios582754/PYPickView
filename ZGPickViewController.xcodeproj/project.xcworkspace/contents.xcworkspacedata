@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PYPickView.xcodeproj">
+      location = "self:ZGPickViewController.xcodeproj">
    </FileRef>
 </Workspace>

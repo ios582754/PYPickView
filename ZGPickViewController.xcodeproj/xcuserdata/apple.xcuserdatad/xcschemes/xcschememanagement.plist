@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PYPickView.xcscheme</key>
+		<key>ZGPickViewController.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>183A321F1EBD66B100173F11</key>
+		<key>181A03241ED1A2F6001D2F70</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -62,12 +62,12 @@
 
 - (IBAction)timeSetAction:(id)sender {
     [PySwithTimePickView showWithStartHour:@"5"
-                                  startMinu:@"18"
-                                    endHour:@"08"
-                                    endMinu:@"56"
-                           clickBtnCallback:^(BtnType btnType, NSString *startHour, NSString *startMinu, NSString *endHour, NSString *endMinu) {
-                               [sender setTitle:[NSString stringWithFormat:@"%@:%@ - %@:%@",startHour, startMinu, endHour, endMinu] forState:UIControlStateNormal];
-                           }];
+                                 startMinu:@"18"
+                                   endHour:@"08"
+                                   endMinu:@"56"
+                          clickBtnCallback:^(BtnType btnType, NSString *startHour, NSString *startMinu, NSString *endHour, NSString *endMinu) {
+                              [sender setTitle:[NSString stringWithFormat:@"%@:%@ - %@:%@",startHour, startMinu, endHour, endMinu] forState:UIControlStateNormal];
+                          }];
 }
 
 

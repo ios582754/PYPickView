@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "183A321F1EBD66B100173F11"
-               BuildableName = "PYPickView.app"
-               BlueprintName = "PYPickView"
-               ReferencedContainer = "container:PYPickView.xcodeproj">
+               BlueprintIdentifier = "181A03241ED1A2F6001D2F70"
+               BuildableName = "ZGPickViewController.app"
+               BlueprintName = "ZGPickViewController"
+               ReferencedContainer = "container:ZGPickViewController.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "183A321F1EBD66B100173F11"
-            BuildableName = "PYPickView.app"
-            BlueprintName = "PYPickView"
-            ReferencedContainer = "container:PYPickView.xcodeproj">
+            BlueprintIdentifier = "181A03241ED1A2F6001D2F70"
+            BuildableName = "ZGPickViewController.app"
+            BlueprintName = "ZGPickViewController"
+            ReferencedContainer = "container:ZGPickViewController.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "183A321F1EBD66B100173F11"
-            BuildableName = "PYPickView.app"
-            BlueprintName = "PYPickView"
-            ReferencedContainer = "container:PYPickView.xcodeproj">
+            BlueprintIdentifier = "181A03241ED1A2F6001D2F70"
+            BuildableName = "ZGPickViewController.app"
+            BlueprintName = "ZGPickViewController"
+            ReferencedContainer = "container:ZGPickViewController.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "183A321F1EBD66B100173F11"
-            BuildableName = "PYPickView.app"
-            BlueprintName = "PYPickView"
-            ReferencedContainer = "container:PYPickView.xcodeproj">
+            BlueprintIdentifier = "181A03241ED1A2F6001D2F70"
+            BuildableName = "ZGPickViewController.app"
+            BlueprintName = "ZGPickViewController"
+            ReferencedContainer = "container:ZGPickViewController.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

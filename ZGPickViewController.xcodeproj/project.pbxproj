@@ -1,0 +1,359 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		181A032A1ED1A2F6001D2F70 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A03291ED1A2F6001D2F70 /* main.m */; };
+		181A032D1ED1A2F6001D2F70 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A032C1ED1A2F6001D2F70 /* AppDelegate.m */; };
+		181A03301ED1A2F6001D2F70 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A032F1ED1A2F6001D2F70 /* ViewController.m */; };
+		181A03351ED1A2F6001D2F70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181A03341ED1A2F6001D2F70 /* Assets.xcassets */; };
+		181A03381ED1A2F6001D2F70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 181A03361ED1A2F6001D2F70 /* LaunchScreen.storyboard */; };
+		181A034D1ED1A332001D2F70 /* address.plist in Resources */ = {isa = PBXBuildFile; fileRef = 181A03401ED1A332001D2F70 /* address.plist */; };
+		181A034E1ED1A332001D2F70 /* PyAddressPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A03421ED1A332001D2F70 /* PyAddressPickView.m */; };
+		181A034F1ED1A332001D2F70 /* PyBirthdayPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A03441ED1A332001D2F70 /* PyBirthdayPickerView.m */; };
+		181A03501ED1A332001D2F70 /* PyGenderPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A03461ED1A332001D2F70 /* PyGenderPickerView.m */; };
+		181A03511ED1A332001D2F70 /* PYPickViewR.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 181A03481ED1A332001D2F70 /* PYPickViewR.podspec */; };
+		181A03521ED1A332001D2F70 /* PySwithTimePickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A034A1ED1A332001D2F70 /* PySwithTimePickView.m */; };
+		181A03531ED1A332001D2F70 /* UIView+PyExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 181A034C1ED1A332001D2F70 /* UIView+PyExtension.m */; };
+		181A03551ED1A384001D2F70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 181A03541ED1A384001D2F70 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		181A03251ED1A2F6001D2F70 /* ZGPickViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZGPickViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		181A03291ED1A2F6001D2F70 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		181A032B1ED1A2F6001D2F70 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		181A032C1ED1A2F6001D2F70 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		181A032E1ED1A2F6001D2F70 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		181A032F1ED1A2F6001D2F70 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		181A03341ED1A2F6001D2F70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		181A03371ED1A2F6001D2F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		181A03391ED1A2F6001D2F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		181A03401ED1A332001D2F70 /* address.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = address.plist; sourceTree = "<group>"; };
+		181A03411ED1A332001D2F70 /* PyAddressPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyAddressPickView.h; sourceTree = "<group>"; };
+		181A03421ED1A332001D2F70 /* PyAddressPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyAddressPickView.m; sourceTree = "<group>"; };
+		181A03431ED1A332001D2F70 /* PyBirthdayPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyBirthdayPickerView.h; sourceTree = "<group>"; };
+		181A03441ED1A332001D2F70 /* PyBirthdayPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyBirthdayPickerView.m; sourceTree = "<group>"; };
+		181A03451ED1A332001D2F70 /* PyGenderPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PyGenderPickerView.h; sourceTree = "<group>"; };
+		181A03461ED1A332001D2F70 /* PyGenderPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PyGenderPickerView.m; sourceTree = "<group>"; };
+		181A03471ED1A332001D2F70 /* PYPickViewDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYPickViewDefines.h; sourceTree = "<group>"; };
+		181A03481ED1A332001D2F70 /* PYPickViewR.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PYPickViewR.podspec; sourceTree = "<group>"; };
+		181A03491ED1A332001D2F70 /* PySwithTimePickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PySwithTimePickView.h; sourceTree = "<group>"; };
+		181A034A1ED1A332001D2F70 /* PySwithTimePickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PySwithTimePickView.m; sourceTree = "<group>"; };
+		181A034B1ED1A332001D2F70 /* UIView+PyExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+PyExtension.h"; sourceTree = "<group>"; };
+		181A034C1ED1A332001D2F70 /* UIView+PyExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+PyExtension.m"; sourceTree = "<group>"; };
+		181A03541ED1A384001D2F70 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		181A03221ED1A2F6001D2F70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		181A031C1ED1A2F6001D2F70 = {
+			isa = PBXGroup;
+			children = (
+				181A03271ED1A2F6001D2F70 /* ZGPickViewController */,
+				181A03261ED1A2F6001D2F70 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		181A03261ED1A2F6001D2F70 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				181A03251ED1A2F6001D2F70 /* ZGPickViewController.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		181A03271ED1A2F6001D2F70 /* ZGPickViewController */ = {
+			isa = PBXGroup;
+			children = (
+				181A033F1ED1A332001D2F70 /* PYPickView */,
+				181A032B1ED1A2F6001D2F70 /* AppDelegate.h */,
+				181A032C1ED1A2F6001D2F70 /* AppDelegate.m */,
+				181A032E1ED1A2F6001D2F70 /* ViewController.h */,
+				181A032F1ED1A2F6001D2F70 /* ViewController.m */,
+				181A03541ED1A384001D2F70 /* Main.storyboard */,
+				181A03341ED1A2F6001D2F70 /* Assets.xcassets */,
+				181A03361ED1A2F6001D2F70 /* LaunchScreen.storyboard */,
+				181A03391ED1A2F6001D2F70 /* Info.plist */,
+				181A03281ED1A2F6001D2F70 /* Supporting Files */,
+			);
+			path = ZGPickViewController;
+			sourceTree = "<group>";
+		};
+		181A03281ED1A2F6001D2F70 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				181A03291ED1A2F6001D2F70 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		181A033F1ED1A332001D2F70 /* PYPickView */ = {
+			isa = PBXGroup;
+			children = (
+				181A03401ED1A332001D2F70 /* address.plist */,
+				181A03411ED1A332001D2F70 /* PyAddressPickView.h */,
+				181A03421ED1A332001D2F70 /* PyAddressPickView.m */,
+				181A03431ED1A332001D2F70 /* PyBirthdayPickerView.h */,
+				181A03441ED1A332001D2F70 /* PyBirthdayPickerView.m */,
+				181A03451ED1A332001D2F70 /* PyGenderPickerView.h */,
+				181A03461ED1A332001D2F70 /* PyGenderPickerView.m */,
+				181A03471ED1A332001D2F70 /* PYPickViewDefines.h */,
+				181A03481ED1A332001D2F70 /* PYPickViewR.podspec */,
+				181A03491ED1A332001D2F70 /* PySwithTimePickView.h */,
+				181A034A1ED1A332001D2F70 /* PySwithTimePickView.m */,
+				181A034B1ED1A332001D2F70 /* UIView+PyExtension.h */,
+				181A034C1ED1A332001D2F70 /* UIView+PyExtension.m */,
+			);
+			path = PYPickView;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		181A03241ED1A2F6001D2F70 /* ZGPickViewController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 181A033C1ED1A2F6001D2F70 /* Build configuration list for PBXNativeTarget "ZGPickViewController" */;
+			buildPhases = (
+				181A03211ED1A2F6001D2F70 /* Sources */,
+				181A03221ED1A2F6001D2F70 /* Frameworks */,
+				181A03231ED1A2F6001D2F70 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ZGPickViewController;
+			productName = ZGPickViewController;
+			productReference = 181A03251ED1A2F6001D2F70 /* ZGPickViewController.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		181A031D1ED1A2F6001D2F70 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = pxymac;
+				TargetAttributes = {
+					181A03241ED1A2F6001D2F70 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4QPALNWDNA;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 181A03201ED1A2F6001D2F70 /* Build configuration list for PBXProject "ZGPickViewController" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 181A031C1ED1A2F6001D2F70;
+			productRefGroup = 181A03261ED1A2F6001D2F70 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				181A03241ED1A2F6001D2F70 /* ZGPickViewController */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		181A03231ED1A2F6001D2F70 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				181A03381ED1A2F6001D2F70 /* LaunchScreen.storyboard in Resources */,
+				181A03551ED1A384001D2F70 /* Main.storyboard in Resources */,
+				181A034D1ED1A332001D2F70 /* address.plist in Resources */,
+				181A03351ED1A2F6001D2F70 /* Assets.xcassets in Resources */,
+				181A03511ED1A332001D2F70 /* PYPickViewR.podspec in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		181A03211ED1A2F6001D2F70 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				181A03301ED1A2F6001D2F70 /* ViewController.m in Sources */,
+				181A03531ED1A332001D2F70 /* UIView+PyExtension.m in Sources */,
+				181A032D1ED1A2F6001D2F70 /* AppDelegate.m in Sources */,
+				181A034F1ED1A332001D2F70 /* PyBirthdayPickerView.m in Sources */,
+				181A03521ED1A332001D2F70 /* PySwithTimePickView.m in Sources */,
+				181A032A1ED1A2F6001D2F70 /* main.m in Sources */,
+				181A03501ED1A332001D2F70 /* PyGenderPickerView.m in Sources */,
+				181A034E1ED1A332001D2F70 /* PyAddressPickView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		181A03361ED1A2F6001D2F70 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				181A03371ED1A2F6001D2F70 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		181A033A1ED1A2F6001D2F70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		181A033B1ED1A2F6001D2F70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		181A033D1ED1A2F6001D2F70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4QPALNWDNA;
+				INFOPLIST_FILE = ZGPickViewController/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zaoguankeji.www.ZGPickViewController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		181A033E1ED1A2F6001D2F70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4QPALNWDNA;
+				INFOPLIST_FILE = ZGPickViewController/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zaoguankeji.www.ZGPickViewController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		181A03201ED1A2F6001D2F70 /* Build configuration list for PBXProject "ZGPickViewController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				181A033A1ED1A2F6001D2F70 /* Debug */,
+				181A033B1ED1A2F6001D2F70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		181A033C1ED1A2F6001D2F70 /* Build configuration list for PBXNativeTarget "ZGPickViewController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				181A033D1ED1A2F6001D2F70 /* Debug */,
+				181A033E1ED1A2F6001D2F70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 181A031D1ED1A2F6001D2F70 /* Project object */;
+}
