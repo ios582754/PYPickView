@@ -15,8 +15,8 @@ PickView is an extremely customizable and lightweight library that makes the tas
 
     s.ios.deployment_target = '9.0'
 
-    s.source_files  = "PYPickView", "PYPickView/**/*.{h,m}"
+    #s.source_files = 'PYPickView/**/*{h,m}'
 
-  s.framework  = "UIKit"
+    s.source_files  = "PYPickView", "PYPickView/**/*.{h,m}"
 
 end
